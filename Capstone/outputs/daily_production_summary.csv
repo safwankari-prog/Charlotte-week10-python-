@@ -1,0 +1,13 @@
+well_id,date,oil_bbl,water_bbl,gas_mscf,expected_slots,oil_valid_readings,water_valid_readings,gas_valid_readings,oil_complete,water_complete,gas_complete
+WELL-21,2026-04-06,221.0,91.0,592.0,4,3,4,4,False,True,True
+WELL-21,2026-04-07,219.0,68.0,469.0,4,3,3,3,False,False,False
+WELL-21,2026-04-08,290.0,71.0,656.0,4,4,3,4,True,False,True
+WELL-21,2026-04-09,290.0,91.0,688.0,4,4,4,4,True,True,True
+WELL-22,2026-04-06,330.0,99.0,620.0,4,4,4,4,True,True,True
+WELL-22,2026-04-07,243.0,75.0,486.0,4,4,4,4,True,True,True
+WELL-22,2026-04-08,159.0,76.0,512.0,4,2,3,3,False,False,False
+WELL-22,2026-04-09,330.0,99.0,716.0,4,4,4,4,True,True,True
+WELL-23,2026-04-06,273.0,81.0,483.0,4,3,3,3,False,False,False
+WELL-23,2026-04-07,370.0,108.0,680.0,4,4,4,4,True,True,True
+WELL-23,2026-04-08,374.0,109.0,537.0,4,4,4,3,True,True,False
+WELL-23,2026-04-09,282.0,81.0,561.0,4,3,3,3,False,False,False
