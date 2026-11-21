@@ -1,0 +1,11 @@
+README
+Week 10 · Class 5 · Student Capstone
+Independent assessment, not a teaching session.
+Read 01_Capstone_Project_Brief.docx and 02_Student_Execution_Guide.docx.
+Set up: python -m pip install -r requirements.txt.
+Implement src/production_pipeline.py and add tests.
+Execute and document notebook/Week10_Class5_Student_Capstone.ipynb.
+Generate outputs: cleaned_production.csv, data_quality_report.csv, daily_production_summary.csv, rejected_source_records.csv.
+Submit a PR on your own GitHub repo using feature/week10-class05-capstone.
+Dataset: synthetic training data only; no real field readings.
+
